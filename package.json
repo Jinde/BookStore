@@ -1,0 +1,17 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "Simple book store ",
+  "main": "app.js",
+  "scripts": {
+    "test": "s"
+  },
+  "dependencies":{
+     "express" :"*",
+	 "body-parser":"*",
+	 "mongoose" :"*"
+  
+  },
+  "author": "Jinde",
+  "license": "ISC"
+}
